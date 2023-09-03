@@ -1,8 +1,11 @@
-# React + Vite
+# Overview
+>
+This basic food order app made with react,tailwindcss and vitejs.You can read more detail below,here is [link](https://teal-hamster-e0ecd5.netlify.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React
+- Basic react hooks
+- Redux toolkit
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Styling
+- Tailwindcss for styling
+- Framer motion for animations
